@@ -1,0 +1,11 @@
+footer {
+    background-color: white;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.inscriptions_newsletter {
+    display: flex;
+}

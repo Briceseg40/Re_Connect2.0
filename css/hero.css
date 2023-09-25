@@ -1,0 +1,63 @@
+.hero {
+    max-height: 80vh;
+
+}
+
+.img_hero {
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+}
+
+
+.hero_text {
+    margin-top: 200px;
+    color: white;
+    font-size: 15px;
+}
+
+.hero_text h1 {
+    font-size: 40px;
+    font: 100;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+.hero_text p {
+    margin-bottom: 25px;
+    margin-top: 10px;
+    font-size: 25px;
+}
+.hero_text a {
+    
+    text-decoration: none;
+    border: none;
+    
+    font-size: 17px;
+    
+}
+.hero_text a:hover {
+    border: none;
+}
+
+.hero_hide {
+    background-color: rgba(0, 0, 0);
+}
+
+.hero_overlay {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 600px;
+    background-color: rgba(0, 0, 0, 0.3);
+    
+}
+
+.hero .reseaux img {
+    height: 30px;
+    width: 35px;
+    margin-right: 10px
+}
+
+.reseaux {
+    margin-top: 25px;
+}

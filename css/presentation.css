@@ -1,0 +1,70 @@
+.presentation {
+    margin-top: 200px;
+    background-color: white;
+    color: black;
+    margin-bottom: 30px;
+   
+    
+}
+
+.presentation h2 {
+    text-align: center;
+}
+
+.presentation a {
+    text-decoration: none;
+    
+    
+    display: flex;
+    justify-content: center;
+    
+    margin-top: 35px;
+    
+}
+
+
+
+.presentation_btn {
+    display: flex;
+    justify-content: center;
+}
+.cadre_equipe {
+    background-color: black;
+    height: 200px;
+    width: 140px;
+    border-radius: 15px;
+    /* border: 2px solid white; */
+}
+
+.conteiner_equipe {
+    color: white;
+    gap: 50px;
+    
+    
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.cadre_equipe h3, .cadre_equipe p {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.cadre_equipe img {
+    width: 110px;
+    align-items: center;
+    border-radius: 40px;
+    margin-top: 5px;
+    margin-left: 15px;
+    background-color: white;
+}
+
+
+.cadre_equipe p {
+    font-size: 12px;
+}
+
+.cadre_equipe h3 {
+    font-size: 22px;
+}

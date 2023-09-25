@@ -1,0 +1,58 @@
+.actu_cadre img {
+    width: 140px;
+    height: 90px;
+    object-fit: cover;
+}
+
+.actu {
+    background-color: black;
+    height: 19vh;
+    position: absolute;
+    top: 490px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding-bottom: 80px;
+    padding-top: 20px;
+    
+   
+}
+
+.actu_text h3 {
+    color: white;
+    padding-top: 5px;
+    
+}
+
+.actu_text h4 {
+    color: rgba(11, 158, 237,0.8);
+    padding-top: 5px;
+}
+
+.actu_text {
+    display: flex;
+    flex-direction: column;
+    margin-left: 5px;
+    text-align: left;
+}
+
+.actu_cadre {
+    display: flex;
+    padding-top: 10px;    
+}
+
+.all_cadre {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+    
+}
+
+/* RESPONSIVE */
+@media screen and (max-width: 1000px) {
+    .actu {
+        width: 100%;
+        
+    }
+    
+}

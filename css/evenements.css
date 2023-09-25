@@ -1,0 +1,67 @@
+.derniers_evn h2, .prochains_evn h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.derniers_evn {
+    margin-left: 5%;
+}
+.prochains_evn {
+    margin-right: 5%;
+}
+.evn {
+    padding-top: 25px;
+    background-color: black;
+    color: white;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.logo_evn img{
+    width: 100px;
+}
+.evn_logo {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.evn_cadre {
+    background-color: white;
+    color: black;
+    width: 300px;
+    height: auto;
+    padding: 10px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+        
+}
+.logo_evn {
+    margin-top: 12%;
+
+}
+
+
+.evn_cadre h3 {
+    font-size: 25px;
+}
+
+#titre {
+    text-align: center;
+}
+
+.btn_date {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+    align-items: center;
+    
+}
+
+.btn_date h3, .btn_date a {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+

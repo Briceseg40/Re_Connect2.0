@@ -1,0 +1,71 @@
+* {
+    font-family: 'Karla';
+    font-weight: 600;
+    
+}
+
+body {
+    line-height: 1.6;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: default;
+}
+
+body{
+    background-color: white;
+}
+h2 {
+    font-size: 32px;   
+   
+    
+
+}
+
+h3 {
+    font-size: 26px;
+    
+    
+}
+
+h4 {
+    font-size: 14px;
+}
+
+h6 {
+    color: #0B9EED;
+    font-size: 40px;
+}
+
+p {
+    font-size: 16px;
+    font-family: '';
+}
+
+
+.btn_all a{
+    color: white;
+    border: 2px solid white;
+    border-radius: 2px;
+    background-color: rgba(11, 158, 237, 0.8);
+    padding: 6px;
+    
+
+}
+.btn_all a:hover{
+    color: rgba(11, 158, 237, 0.8);
+    background-color: white;
+    border: 2px solid #0b9eedcc;
+    border-radius: 2px;
+}
+
+
+
+
+
+
+/* Couleur du logo bleu : #0b9eed
+Couleur du logo rouge : #E1295A */
+
+
+/* Commande pour mettre un text en commentaire : CTRL + Numpad1 */

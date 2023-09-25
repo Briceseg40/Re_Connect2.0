@@ -1,0 +1,71 @@
+.jeux_video {
+    padding-top: 20px;
+    background-color: black;
+    padding-bottom: 20px;
+    color: white;
+    
+}
+
+.jeux_video .logo_jeux img {
+    
+    width: 85px;
+    height: 85px;
+}
+
+.title_jeux h2 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+
+
+.jeux_container {
+ display: flex;
+  justify-content: space-between;
+}
+
+
+.video_text p {
+    font-size: 15px;
+    line-height: 32px;
+    text-align: left;
+    width: 80%;
+    font-weight: 100;
+}
+
+.logo_jeux p {
+    font-size: 25px; 
+}
+
+.logo_jeux {
+    display: flex;
+    margin-top: 3%;
+
+}
+
+.logo_jeux img {
+    margin-right: 15px;
+}
+
+.btn_inscription a {
+    
+    text-decoration: none;
+    margin-left: 30%;
+    width: 20px;
+    border: none;
+    
+    
+}
+.btn_inscription a:hover {
+    border: none;
+}
+
+
+
+
+.btn_inscription {
+    padding-top: 30px;
+    margin-right: 50px;
+}
+
+
